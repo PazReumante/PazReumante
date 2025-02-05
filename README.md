@@ -1,17 +1,24 @@
-# 👋 Hello World, I’m @PazReumante
+# 👋 Hello World, I’m @PazReumante  
 ---
-### About Me
 
-- 👀 **Interests:**  
-  I have a deep passion for **Data Science** and **artificial intelligence**, **machine learning**, I love discovering new insights and uncovering hidden patterns in data.
+### 🚀 About Me  
 
-- 🌱 **Current Focus:**  
-  I'm continuously growing as a **Data Scientist** and **Machine Learning** also learning about **AI**
+- 👀 **Passionate About:**  
+  I'm deeply fascinated by **Data Science**, **Artificial Intelligence**, and **Machine Learning**.  
+  I thrive on uncovering hidden patterns in data and transforming insights into impactful solutions.  
 
-- ⚡ **Fun Facts:**  
-  - In my spare time, I am a **singer**.
-  - I do **photography**.
-  - I love to **travel** and explore new places.
+- 🌱 **Currently Exploring:**  
+  I'm continuously expanding my expertise in **Data Science** and **AI**,  
+  focusing on cutting-edge developments in **Generative Models** and **Predictive Analytics**.  
+
+- 🎵 **Beyond Tech:**  
+  - 🎤 I'm a **singer** in my spare time.  
+  - 📸 I enjoy **photography** and capturing unique perspectives.  
+  - ✈️ I love to **travel**, explore new cultures, and seek inspiration from diverse experiences.  
+
+## 📫 Let’s Connect!  
+💼 [LinkedIn](https://www.linkedin.com/in/pazreumanteoyanedel/) | 🔧 [GitHub](https://github.com/PazReumante)  
+
 ---
 ### 🚀 Projects
 
