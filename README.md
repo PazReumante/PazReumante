@@ -31,4 +31,4 @@
 
 - **Languages:** Python, SQL, Html & R.
 - **Frameworks:** TensorFlow, PyTorch, Scikit-learn, Pandas, Numpy, etc.
-- **Tools:** Git, Docker, Jupyter.
+- **Tools:** Git, Docker, Jupyter, etc.
