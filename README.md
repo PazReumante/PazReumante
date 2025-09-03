@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Paz Reumante (@PazReumante)
 
-**Mining Engineer & Data Scientist** — Data Science & Machine Learning.  
-I build end-to-end data products with Python, SQL and Power BI — from ETL and predictive models to interactive apps in Streamlit. Currently preparing the **Google Professional Machine Learning Engineer** certification.
+**Engineer & Data Scientist** —  
+I build end-to-end data products with Python, SQL and Power BI — from ETL and predictive models to interactive apps in Streamlit. Currently preparing the *Google Professional Machine Learning Engineer* certification.
 
 ---
 
