@@ -1,47 +1,145 @@
-# 👋 Hi, I’m Paz Reumante (@PazReumante)
+# 👋 Hi, I'm Paz Reumante
 
-**Engineer & Data Scientist** —  
-I build end-to-end data products with Python, SQL and Power BI — from ETL and predictive models to interactive apps in Streamlit. Currently preparing the *Google Professional Machine Learning Engineer* certification.
+### Engineer | Business Operations | Business Optimization | Data Analytics | Applied AI & Automation
 
----
-
-## 🚀 About me
-I transform raw data into clear decisions. I enjoy tackling real problems with practical, production-minded solutions: data pipelines, robust models, automated reporting and intuitive dashboards. My background in mining engineering gives me a structured, results-driven approach; my training in Data Science lets me apply statistical rigor and ML to business needs.
+> **"To shape a future where people, organizations, and intelligent systems collaborate under enduring principles, using technology to augment human capabilities while preserving human autonomy."**
 
 ---
 
-## 🛠 Tech & tools
-- **Languages:** Python, SQL  
-- **Data & ML:** Pandas, NumPy, scikit-learn, XGBoost, TensorFlow (basics)  
-- **BI & Visualization:** Power BI (DAX, Power Query), Matplotlib, Seaborn, Streamlit  
-- **Data engineering / DBs:** ETL, SQLAlchemy, PostgreSQL, MySQL  
-- **Dev & infra:** Git, GitHub, python-dotenv  
-- **Other libs:** OpenCV, ipyleaflet, ipywidgets, sympy
+# About Me
+
+I am an engineer with a multidisciplinary background in business operations, process optimization, data analytics, and applied artificial intelligence.
+
+My work focuses on designing scalable solutions that transform operational complexity into measurable business value by integrating engineering principles, business understanding, analytics, automation, and AI.
+
+Rather than building technology for its own sake, I design systems that improve decision-making, optimize processes, and empower people through intelligent solutions.
 
 ---
 
-## 🏆 Featured project
-**Asteroid Collision Prediction** — [github.com/PazReumante/asteroid_prediction](https://github.com/PazReumante/asteroid_prediction)  
-End-to-end predictive solution using Python & SQL: ETL of NEOCC (ESA) data, supervised modeling (92% test accuracy with scikit-learn & XGBoost), and an interactive Streamlit app for trajectory and risk visualization. Published as an open-source project.
+# Core Expertise
+
+- Business Optimization
+- Business Operations
+- Process Improvement & Continuous Improvement
+- Data Analytics & Business Intelligence
+- Applied Artificial Intelligence
+- Intelligent Automation
+- Decision Support Systems
+- AI Agents & Retrieval-Augmented Generation (RAG)
+- Knowledge Management
+- Process Documentation & Standardization
 
 ---
 
-## 📚 Education & certifications
-- **Bachelor's in Mining Engineering** — Technological University of Chile (Oct 2019)  
-- **Data Science & Machine Learning** — 4Geeks Academy  (July 2024)  
-- **IBM — Generative AI for Data Scientists** (certificate)  
-- **Google Professional Machine Learning Engineer** — in progress
+# Technical Stack
+
+### Programming
+
+- Python
+- SQL
+
+### Data Analytics
+
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- TensorFlow
+- Power BI
+- DAX
+- Power Query
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- SQLAlchemy
+
+### AI & Automation
+
+- OpenAI APIs
+- RAG Architectures
+- AI Agents
+- Prompt Engineering
+- Streamlit
+
+### Development
+
+- Git
+- GitHub
+- Python-dotenv
 
 ---
 
-## ✨ What I bring
-- Ability to translate business questions into data pipelines and actionable ML models.  
-- Practical experience in real estate operations, financial reporting and automated dashboards.  
-- Strong focus on data quality, reproducibility and delivering insights that drive decisions.  
-- Collaborative mindset, curiosity and continuous learning.
+# Currently Building
+
+I am currently developing an open professional ecosystem focused on Business Optimization and Applied AI through:
+
+- Engineering Business Transformation Portfolio
+- Business Optimization methodologies
+- Applied AI solutions
+- AI Agents
+- RAG-based knowledge systems
+- Business case studies
+- Decision Support Systems
+- Interactive dashboards
+- Open-source engineering projects
 
 ---
 
-## 📫 Let’s connect
-- LinkedIn: https://www.linkedin.com/in/pazreumanteoyanedel/  
-- GitHub: https://github.com/PazReumante  
+# Featured Projects
+
+## Engineering Business Transformation Portfolio *(In Progress)*
+
+A long-term portfolio showcasing engineering methodologies, business optimization frameworks, applied AI solutions, and real-world case studies.
+
+---
+
+## Asteroid Collision Prediction
+
+End-to-end predictive analytics solution including:
+
+- Data Engineering (ETL)
+- Machine Learning
+- SQL
+- Streamlit
+- Interactive visualization
+
+Repository:
+
+https://github.com/PazReumante/asteroid_prediction
+
+---
+
+# Philosophy
+
+I believe technology should amplify human capabilities—not replace them.
+
+My goal is to design systems where engineering, business knowledge, analytics, and artificial intelligence work together to improve operational performance, strengthen decision-making, and generate sustainable value.
+
+---
+
+# Learning Journey
+
+Currently expanding expertise in:
+
+- Microsoft Power BI (PL-300)
+- Microsoft Azure AI Fundamentals (AI-900)
+- Azure ecosystem
+- Applied Artificial Intelligence
+- Decision Intelligence
+- Business Optimization
+
+Learning through real-world projects, experimentation, and continuous improvement.
+
+---
+
+# Let's Connect
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/pazreumanteoyanedel/
+
+💻 GitHub
+
+https://github.com/PazReumante
